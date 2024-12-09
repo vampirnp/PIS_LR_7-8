@@ -209,7 +209,7 @@
 ### вытаскивал из сообщений на почте поэтому отредачить не могу
 ## 1. Концепт
 ![image](https://github.com/user-attachments/assets/8a63f56f-b481-479c-8552-9e962dc34086)
-## 2. ТАблица Бд
+## 2. Структура Бд
 ![image](https://github.com/user-attachments/assets/9fa4b4cc-166f-4ec7-a074-05db4f4d2228)
 
 ## 3.Таблицы Бд
