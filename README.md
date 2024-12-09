@@ -384,7 +384,7 @@ SELECT id FROM tbl_User
 WHERE user_id = {current_user} 
 AND id = {orderId}
 
--- Проверка статуса рейса
+-- Проверка статуса
 SELECT status FROM tbl_product 
 WHERE id = {product_Id} 
 AND status = 'ACTIVE'
